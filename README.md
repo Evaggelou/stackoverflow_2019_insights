@@ -21,5 +21,8 @@ The dataset used has 2 parts/files:
 Since the dataset was too large to be uploaded directly on Github, I have uploaded a zipped folder containing the dataset files, user of this repo should unzip/extract those files and put that in the same folder in which jupyter notebook is present for running notebook locally.
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
+## Results
+The main findings of the code can be found at the post available here.
+
 ## Acknowledgements
 I must give credit to Stack Overflow for the data. The dataset can be found [here](https://insights.stackoverflow.com/survey)
