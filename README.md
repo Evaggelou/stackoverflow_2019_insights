@@ -22,7 +22,7 @@ Since the dataset was too large to be uploaded directly on Github, I have upload
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@Sidrah/what-does-stackoverflow-2019-survey-tell-us-about-gender-diversity-93df57b32b38).
 
 ## Acknowledgements
 I must give credit to Stack Overflow for the data. The dataset can be found [here](https://insights.stackoverflow.com/survey)
